@@ -2,10 +2,8 @@
 Libreria PHP per creare bot Telegram in modo semplice e gratuito.
 
 ## Wiki
-**Entro qualche giorno inizierò a scrivere la wiki.**
-
-## Setup
-Scriverò nei prossimi giorni come *installare* il bot.
+Per scoprire come utilizzare al meglio il bot visita la [wiki](https://github.com/Takabrycheri34/TakaBotTG/wiki "wiki di TakaBotTG")!
+*Nei prossimi giorni scriverò anche come effettuare la configurazione iniziale*
 
 ## Cosa sa fare il bot?
 Al momento il bot **dovrebbe** essere in grado di inviare:
